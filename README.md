@@ -8,9 +8,6 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-
 ---
 
 ## 🎯 What is this project?
@@ -19,7 +16,7 @@
 
 ## ✨ Why this project?
 
-Built for real-world business needs with **enterprise-grade architecture**, **type safety**, and **scalable design** - perfect for portfolio展示, client work, or production deployment.
+Built for real-world business needs with **enterprise-grade architecture**, **type safety**, and **scalable design** - perfect for portfolio, client work, or production deployment.
 
 ---
 
@@ -223,7 +220,7 @@ npm run preview    # Preview production build
 
 ### **Waleed Khokhar**
 
-> **Full-Stack Engineer | Python FastAPI | \* MERN Stack**
+> **Full-Stack Engineer | Python FastAPI |  MERN Stack**
 
 I build **scalable, production-ready web applications** with modern architectures. Passionate about clean code, type safety, and creating seamless user experiences across both JavaScript/TypeScript and Python ecosystems.
 
