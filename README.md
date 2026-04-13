@@ -8,6 +8,7 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
+
 ---
 
 ## 🎯 What is this project?
@@ -44,7 +45,6 @@ Built for real-world business needs with **enterprise-grade architecture**, **ty
 | --------------------------- | --------------------------- | --------------------------- |
 | ![6](./client/public/6.png) | ![7](./client/public/7.png) | ![8](./client/public/8.png) |
 | **Purchases**               | **Sellers**                 | **User-Admin-Info**         |
-
 ## 🛠️ Tech Stack
 
 ### 🖥️ Backend
