@@ -1,4 +1,4 @@
-# 📦 Stock Mind - Inventory Management System
+> # 📦 Stock Mind - Inventory Management System
 
 > A production-ready, full-stack inventory management system built with modern web technologies. Streamline your business operations with real-time stock tracking, sales analytics, and complete purchase management.
 
@@ -8,6 +8,9 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+
 
 ---
 
@@ -29,22 +32,26 @@ Built for real-world business needs with **enterprise-grade architecture**, **ty
 
 ---
 
+
+
 ## 📸 Screenshots
 
-|                             |                                 |                             |
-| --------------------------- | ------------------------------- | --------------------------- |
-| ![1](./client/public/1.png) | ![1.2](./client/public/1.2.png) | ![2](./client/public/2.png) |
-| **Register Page**           | **Login**                       | **Dashboard**               |
+| | | |
+|---|---|---|
+| ![1](https://raw.githubusercontent.com/waleedkhokar/Stock_Mind_Invertory_System/main/client/public/1.png) | ![1.2](https://raw.githubusercontent.com/waleedkhokar/Stock_Mind_Invertory_System/main/client/public/1.2.png) | ![2](https://raw.githubusercontent.com/waleedkhokar/Stock_Mind_Invertory_System/main/client/public/2.png) |
+| **Register Page** | **Login** | **Dashboard** |
 
-|                             |                             |                             |
-| --------------------------- | --------------------------- | --------------------------- |
-| ![3](./client/public/3.png) | ![4](./client/public/4.png) | ![5](./client/public/5.png) |
-| **Add Product**             | **Products**                | **Sales**                   |
+| | | |
+|---|---|---|
+| ![3](https://raw.githubusercontent.com/waleedkhokar/Stock_Mind_Invertory_System/main/client/public/3.png) | ![4](https://raw.githubusercontent.com/waleedkhokar/Stock_Mind_Invertory_System/main/client/public/4.png) | ![5](https://raw.githubusercontent.com/waleedkhokar/Stock_Mind_Invertory_System/main/client/public/5.png) |
+| **Add Product** | **Products** | **Sales** |
 
-|                             |                             |                             |
-| --------------------------- | --------------------------- | --------------------------- |
-| ![6](./client/public/6.png) | ![7](./client/public/7.png) | ![8](./client/public/8.png) |
-| **Purchases**               | **Sellers**                 | **User-Admin-Info**         |
+| | | |
+|---|---|---|
+| ![6](https://raw.githubusercontent.com/waleedkhokar/Stock_Mind_Invertory_System/main/client/public/6.png) | ![7](https://raw.githubusercontent.com/waleedkhokar/Stock_Mind_Invertory_System/main/client/public/7.png) | ![8](https://raw.githubusercontent.com/waleedkhokar/Stock_Mind_Invertory_System/main/client/public/8.png) |
+| **Purchases** | **Sellers** | **User-Admin-Info** |
+
+
 ## 🛠️ Tech Stack
 
 ### 🖥️ Backend
