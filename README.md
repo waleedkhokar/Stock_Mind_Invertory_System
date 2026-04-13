@@ -38,17 +38,17 @@ Built for real-world business needs with **enterprise-grade architecture**, **ty
 
 | | | |
 |---|---|---|
-| ![1](https://raw.githubusercontent.com/waleedkhokar/Stock_Mind_Invertory_System/main/client/public/1.png) | ![1.2](https://raw.githubusercontent.com/waleedkhokar/Stock_Mind_Invertory_System/main/client/public/1.2.png) | ![2](https://raw.githubusercontent.com/waleedkhokar/Stock_Mind_Invertory_System/main/client/public/2.png) |
+| ![1](https://raw.githubusercontent.com/waleedkhokar/Stock_Mind_Invertory_System/main/client/public/1.PNG) | ![1.2](https://raw.githubusercontent.com/waleedkhokar/Stock_Mind_Invertory_System/main/client/public/1.2.PNG) | ![2](https://raw.githubusercontent.com/waleedkhokar/Stock_Mind_Invertory_System/main/client/public/2.PNG) |
 | **Register Page** | **Login** | **Dashboard** |
 
 | | | |
 |---|---|---|
-| ![3](https://raw.githubusercontent.com/waleedkhokar/Stock_Mind_Invertory_System/main/client/public/3.png) | ![4](https://raw.githubusercontent.com/waleedkhokar/Stock_Mind_Invertory_System/main/client/public/4.png) | ![5](https://raw.githubusercontent.com/waleedkhokar/Stock_Mind_Invertory_System/main/client/public/5.png) |
+| ![3](https://raw.githubusercontent.com/waleedkhokar/Stock_Mind_Invertory_System/main/client/public/3.PNG) | ![4](https://raw.githubusercontent.com/waleedkhokar/Stock_Mind_Invertory_System/main/client/public/4.PNG) | ![5](https://raw.githubusercontent.com/waleedkhokar/Stock_Mind_Invertory_System/main/client/public/5.PNG) |
 | **Add Product** | **Products** | **Sales** |
 
 | | | |
 |---|---|---|
-| ![6](https://raw.githubusercontent.com/waleedkhokar/Stock_Mind_Invertory_System/main/client/public/6.png) | ![7](https://raw.githubusercontent.com/waleedkhokar/Stock_Mind_Invertory_System/main/client/public/7.png) | ![8](https://raw.githubusercontent.com/waleedkhokar/Stock_Mind_Invertory_System/main/client/public/8.png) |
+| ![6](https://raw.githubusercontent.com/waleedkhokar/Stock_Mind_Invertory_System/main/client/public/6.PNG) | ![7](https://raw.githubusercontent.com/waleedkhokar/Stock_Mind_Invertory_System/main/client/public/7.PNG) | ![8](https://raw.githubusercontent.com/waleedkhokar/Stock_Mind_Invertory_System/main/client/public/8.PNG) |
 | **Purchases** | **Sellers** | **User-Admin-Info** |
 
 
